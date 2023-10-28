@@ -1,0 +1,2 @@
+# ideagatherer
+To gather idea
